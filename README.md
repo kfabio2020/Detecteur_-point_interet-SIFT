@@ -1,2 +1,2 @@
-# Detecteur_-point_interet-SIFT
+# Detecteur_point_interet-SIFT
  
